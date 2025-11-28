@@ -1,0 +1,13 @@
+EFCC - Convicted Ministers Dataset
+S/N| NAME OF COMMISSIONER     | MINISTRY         | GEOPOLITICAL ZONE
+
+1  | Aigbogun Alamba Daudu    | Internal Affairs | South West
+
+2  | Murtala Afeez Bendu      | Justice          | North East
+
+3  | Okorocha Calistus Ogbona | Defense          | South South
+
+4  | Adewale Jimoh Akanbi     | Power & Steel    | South East
+
+5 | Osazuwa Faith Etieye      | Petroleum        | North West
+
