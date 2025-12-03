@@ -22,7 +22,7 @@ fn main() {
     display(emp2);
 }
 //fetch values of specific structure fields using the
-//operator and print it to the console
+//operator and print it to the console.
 fn display( emp:Employee){
       println!("Name is {}, company is {}, age is 
       {}",emp.ceo,emp.company,emp.age);
