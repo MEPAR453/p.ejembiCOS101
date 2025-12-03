@@ -6,7 +6,7 @@ struct Rectangle {
 //logic to calculate aarea of a rectangle
 impl Rectangle {
     fn area(&self)->u32 {
-        //use the . operator to fetch the value of a field via the self keyword
+        //use the . operator to fetch the value of a field via the self keyword.
         self.width * self.height
     }
 }
